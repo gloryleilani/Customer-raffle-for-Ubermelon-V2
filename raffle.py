@@ -24,8 +24,5 @@ if __name__ == "__main__":
     run_raffle()
 
 
-from customers import get_customers_from_file
-
-
 
 
